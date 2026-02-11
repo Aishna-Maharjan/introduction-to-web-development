@@ -1,0 +1,25 @@
+.container{
+    width: 440px;
+    
+}
+
+.box{
+    background-color: rgb(189, 235, 235);
+    padding: 15px;
+}
+
+.heading{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 24px;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.detail{
+    text-align: center;
+}
+
+.detail img{
+    width: 100%;
+}
