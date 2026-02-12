@@ -1,5 +1,5 @@
 .container{
-    width: 440px;
+    width: 450px;
     
 }
 
@@ -12,9 +12,9 @@
     text-align: center;
     background-color: antiquewhite;
     padding: 24px;
-    margin: 20px;
-    padding-top: 10px;
+    margin: 20px 0;
 }
+
 
 .detail{
     text-align: center;
