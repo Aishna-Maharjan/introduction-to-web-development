@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+
+main{
+    width: 450px;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.heading{
+    background-color: antiquewhite;
+}
+
+.detail{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.detail img{
+    width: 100%;
+    display: block;
+}
